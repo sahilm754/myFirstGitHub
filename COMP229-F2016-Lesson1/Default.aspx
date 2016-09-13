@@ -2,6 +2,5 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Hello World!</h1>
-   
-
+    <h2>Some new heading</h2>
 </asp:Content>
